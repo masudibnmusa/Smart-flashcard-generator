@@ -108,7 +108,7 @@ flashcard-generator/
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/flashcard-generator.git
+git clone https://github.com/masudibnmusa/Smart-flashcard-generator.git
 cd flashcard-generator
 python -m venv venv
 source venv/bin/activate    # Windows: venv\Scripts\activate
